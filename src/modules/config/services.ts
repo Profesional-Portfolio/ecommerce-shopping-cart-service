@@ -1,0 +1,2 @@
+export const RABBIT_SERVICE = 'RABBIT_SERVICE';
+export const PRODUCT_SERVICE = 'PRODUCT_SERVICE';
